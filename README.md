@@ -7,4 +7,4 @@ The attitude of the head of the laboratory was also disgusting (too dismissive a
 
 UPDATE:
 problems 1,2,4,5 are solved correctly.
-In problem n.3 I wrote a trash. No idea what happend with me. N.3 is obvious, since there is no a cycle that doesn't contain initial point (geometrically obvious; consider a first point at which we get into the minimal cycle).
+In problem n.3 I wrote a trash. No idea what happened to me. N.3 is obvious, since there is no a cycle that doesn't contain initial point (geometrically obvious; consider a first point at which we get into the minimal cycle).
